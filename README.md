@@ -17,7 +17,7 @@ Transitioning from Windows to Linux often comes with a steep learning curve like
 ###  Security & Tooling
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[patch-view](https://github.com/brRige/patch-view)** | A lightweight CLI tool to inspect binary headers, security flags, and dependencies before running executables. | Active Development |
+| **[patch-view](https://github.com/brRige/pvw)** | A lightweight CLI tool to inspect binary headers, security flags, and dependencies before running executables. | Active Development |
 | **wine-guard** | Sandbox and permission auditor to prevent Wine/Proton applications from accessing sensitive system directories. | Not Planned Yet |
 | **net-tracer** | Lightweight socket and network traffic inspector to monitor outbound executable connections. | Not Planned Yet |
 
