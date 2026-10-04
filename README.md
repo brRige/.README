@@ -6,12 +6,20 @@ Transitioning from Windows to Linux often comes with a steep learning curve like
 
 ---
 
-## 🛠️ Main Ecosystem
+##  Main Ecosystem
 
+###  Core Launchers
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[wex](https://github.com/brRige/wex)** | A simplified Linux launcher for `.exe` applications. | Active Development *(Started Oct 2)* |
 | **pex** | A high-performance executable launcher optimized specifically for Windows games on Linux. | Planned / Up Next |
+
+###  Security & Tooling
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **[patch-view](https://github.com/brRige/patch-view)** | A lightweight CLI tool to inspect binary headers, security flags, and dependencies before running executables. | Active Development |
+| **wine-guard** | Sandbox and permission auditor to prevent Wine/Proton applications from accessing sensitive system directories. | Not Planned Yet |
+| **net-tracer** | Lightweight socket and network traffic inspector to monitor outbound executable connections. | Not Planned Yet |
 
 ---
 
